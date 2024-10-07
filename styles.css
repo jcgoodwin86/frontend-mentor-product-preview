@@ -175,6 +175,11 @@ body {
     .product__card__price {
       margin-bottom: 1.87rem;
     }
+
+    button:hover {
+      cursor: pointer;
+      background: var(--deep-aquamarine-hover, #1a4032);
+    }
   }
 
   .product__card__text > * {
